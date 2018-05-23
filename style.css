@@ -36,10 +36,11 @@
 }
 .bgimg-2 {
 	background-image: url("project2.png");
-	margin-bottom: 1ef00px;
+	margin-bottom: 100px;
 	background-size: 1000px;
 	min-height: 500px;
 	width: 100%;
+	
 
 }
 
@@ -100,7 +101,7 @@ p {
 	border-radius: 50px;
 }
 .aboutmestuff {
-	background: #9E9B8C;
+	background: gray;
 	border-radius: 30px;
 	width: 60%;
 	text-align: center;
